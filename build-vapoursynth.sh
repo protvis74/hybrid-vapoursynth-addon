@@ -14,6 +14,8 @@ export CXXFLAGS="$CFLAGS"
   sudo apt install --no-install-recommends \
     build-essential \
     git \
+    python3-minimal \
+    python3-dev \
     python3-pip \
     autoconf \
     automake \
